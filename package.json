@@ -14,7 +14,7 @@
     "babel-loader": "^8.0.6",
     "backbone": "^1.4.0",
     "happo.io": "^3.20.0",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "webpack": "^4.35.3"
   }
 }
